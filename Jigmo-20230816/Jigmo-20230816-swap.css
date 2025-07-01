@@ -1,0 +1,58 @@
+/*Jigmo-20230816*/
+@font-face {
+  font-family: "Jigmo";/*Jigmo*/
+  src: url("https://github.com/datnguyen8128/fallback-fonts-repo/raw/refs/heads/main/Jigmo-20230816/Jigmo.woff2") format('woff2');
+  unicode-range: 
+  U+1100-11FF,/*Hangul jamo, missing 2 fillers*/
+  U+2E80-2EF3,
+  U+2F00-2FD5,
+  U+2FF0-2FFF,
+  U+3000-303E,/*punctuation 32/64*/
+  U+3041-3096,U+3099-309F,
+  U+30A0-30FF,
+  U+3105-312F,
+  U+3131-318E,/*missing HF*/
+  U+3190-319F,
+  U+31A0-31BF,
+  U+31C0-31EF,/*CJK Strokes 37/39*/
+  U+31F0-31FF,
+  U+3200-32FF,/*Enclosed CJK 211/255*/
+  U+3300-33FF,/*CJK Compat 149/256*/
+  U+3400-4DBF,
+  U+4E00-9FFF,
+  U+A960-A97C,
+  U+AC00-D7A3,
+  U+D7B0-D7FB,
+  U+F900-FA6D,U+FA70-FAD9,
+  U+FF61-FFDC,/*Alternate width 112/225*/
+  U+1AFF0-1AFFB,U+1AFFD-1AFFE,
+  U+1B000-1B0FF,
+  U+1B100-1B122,
+  U+1B132,U+1B150-1B152,U+1B155,U+1B164-1B167,
+  U+1F000-1F02B,
+  U+1F200-1F202,U+1F210-1F23B,U+1F240-1F248,U+1F250-1F251,U+1F260-1F265,
+  U+1ED00-1ED4F,
+  U+1EE00-1EEFF;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Jigmo";
+  src: url("https://github.com/datnguyen8128/fallback-fonts-repo/raw/refs/heads/main/Jigmo-20230816/Jigmo2.woff2") format('woff2');
+  unicode-range: 
+  U+20000-2A6DF,
+  U+2A700-2B73F,
+  U+2B740-2B81F,
+  U+2B820-2CEAF,
+  U+2CEB0-2EBEF,
+  U+2EBF0-2EE5F,
+  U+2F800-2FA1F;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Jigmo";/*Jigmo3*/
+  src: url("https://github.com/datnguyen8128/fallback-fonts-repo/raw/refs/heads/main/Jigmo-20230816/Jigmo3.woff2") format('woff2');
+  unicode-range: 
+  U+30000-3134F,
+  U+31350-323AF;
+  font-display: swap;
+}
